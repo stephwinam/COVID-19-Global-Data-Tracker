@@ -22,7 +22,7 @@ This project provides an analytical overview of COVID-19 trends across selected 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/covid19-global-tracker.git
+   git clone https://github.com/stephwinam/covid19-global-tracker.git
 2. Open the notebook:
 
        Launch Jupyter Notebook or JupyterLab.
